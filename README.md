@@ -2,6 +2,8 @@
 
 The dataset used for this project is taken from kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
+#Overview:
+
 Right and wrong ways to deal with imbalance data.
 
 If imbalanced data is not taken care, the model developed will be biased. 
